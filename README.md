@@ -47,7 +47,6 @@ Libraries:
 - Matplotlib (Visualization)
 - Seaborn (Statistical Graphs)
 - Scikit-learn (Machine Learning Models)
-- SHAP (Model Explainability)
 
 Tools:
 - Visual Studio Code
